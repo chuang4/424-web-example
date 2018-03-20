@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# 424-web-example 
+Learning example repository for ISOM 424 students.
 
-You can use the [editor on GitHub](https://github.com/SBS-ISOM/424-web-example/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+THis project enables us to learn source code control using Git.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Purpose
+To have code we can use for hands on exercises. 
 
 ### Markdown
 
