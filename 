@@ -1,0 +1,28 @@
+[1mdiff --git a/Section1.html b/Section1.html[m
+[1mindex 49b4065..be290a7 100644[m
+[1m--- a/Section1.html[m
+[1m+++ b/Section1.html[m
+[36m@@ -1,11 +1,6 @@[m
+ <! --[m
+ What happens when we have conflicts?[m
+[31m-By Carla Huang[m
+ -->[m
+[31m-<<<<<<< HEAD[m
+[31m-<h1>I deleted the first paragraph!</h1>[m
+[31m-=======[m
+[31m-<h1> I deleted the first paragraph!</h1>[m
+[31m->>>>>>> Section1change[m
+[32m+[m[32m<h1> I deleted the first paragraph!</h>[m
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at feugiat ipsum. Sed ullamcorper iaculis elit, non ullamcorper arcu vestibulum eget. Pellentesque mattis sem dictum mauris imperdiet consectetur. Cras interdum nibh odio. Proin malesuada ultrices mauris, eu convallis libero viverra at. Aenean pulvinar dapibus venenatis. Proin ut elit quis neque sagittis tempus. Nam hendrerit commodo ipsum, eu egestas massa sollicitudin in. Fusce finibus elementum purus id volutpat. Nulla rhoncus scelerisque augue, et venenatis nibh consequat tincidunt. Sed dignissim consequat blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus vel pretium tempus. Donec vestibulum metus a eros feugiat fringilla. Vivamus nec ex id leo accumsan fermentum tempor et tortor.[m
+ [m
+[1mdiff --git a/install.md b/install.md[m
+[1mdeleted file mode 100644[m
+[1mindex 20120e3..0000000[m
+[1m--- a/install.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,4 +0,0 @@[m
+[31m-#Installation Instructions[m
+[31m-follow these instructions when installing this code[m
+[31m-##Procedure[m
+[31m-upload to a standard Apache web server[m
+\ No newline at end of file[m
